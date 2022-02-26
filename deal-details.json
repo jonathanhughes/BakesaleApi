@@ -1,0 +1,386 @@
+{
+    "caa2365cf9d5d80d62099e3456c9e0b2": {
+        "key": "caa2365cf9d5d80d62099e3456c9e0b2",
+        "dealType": "Service",
+        "title": "Thai Cooking Class from makebistro",
+        "price": 15000,
+        "makerPercentage": 50,
+        "cause": {
+            "name": "Food\t"
+        },
+        "description": "Learn the art of traditional Thai cooking with Derek Lucci of makebistro. You’ll explore the techniques, ingredients, and tools that create Thailand’s unique regional cuisines – including how to balance Thai food’s spicy, sour, sweet, and salty flavors to make delicious dishes that are hard to find in the U.S. Known for his popular Thai supper club and instructional Instagram videos, Derek will help you have fun in the kitchen and make meals that you can share with loved ones.",
+        "tags": "48fda86e87fe97b4f8e60c21cc61423d,8b39c11e2953078808da2864310ca122,2c136c2e8e3ea7be93e4c069af7b7726",
+        "charity": {
+            "name": "Hot Bread Kitchen",
+            "description": "Help women immigrants who make amazing breads from their home countries become business owners.",
+            "website": "https://hotbreadkitchen.org/"
+        },
+        "charityName": "Hot Bread Kitchen",
+        "charityDescription": "Help women immigrants who make amazing breads from their home countries become business owners.",
+        "charityWebsite": "https://hotbreadkitchen.org/",
+        "availableQuantity": 10,
+        "geoLocation": "New York City",
+        "url": "http://localhost:3000/deals/caa2365cf9d5d80d62099e3456c9e0b2",
+        "user": {
+            "avatar": "https://www.gravatar.com/avatar/470c7041023616e4472c3a0af1ddb912?s=60",
+            "name": "Derek Lucci"
+        },
+        "media": [
+            "https://res.cloudinary.com/bakesale/image/upload/h_600,c_fill/22426056_10210413952292912_1556573906_o_lywce4"
+        ]
+    },
+    "47ccf7763ef63b78774a4b24620126ed": {
+        "key": "47ccf7763ef63b78774a4b24620126ed",
+        "dealType": "Product",
+        "title": "3 Donut Bar Stools - 30\" Seat Height and Swivel",
+        "price": 45000,
+        "makerPercentage": 50,
+        "cause": {
+            "name": "Environment"
+        },
+        "description": "This deal is for 3 Brand New Chrome Donut Bar Stools with a Swivel Seat.  Price includes UPS ground shipping to the lower 48 states.  ",
+        "tags": "",
+        "charity": {
+            "name": "Waterwheel",
+            "description": "The WaterWheel Foundation chooses non-profits from a large sphere of needs including social services, primarily those benefitting women and children; environmental, with a focus on clean water and land conservation with public access; as well as food banks, urban gardening and the like. Thanks to the generosity of the fans, since its creation WaterWheel’s Touring Division has donated over $1,000,000 to more than 425 groups.",
+            "website": "http://phish.com/waterwheel/"
+        },
+        "charityName": "Waterwheel",
+        "charityDescription": "The WaterWheel Foundation chooses non-profits from a large sphere of needs including social services, primarily those benefitting women and children; environmental, with a focus on clean water and land conservation with public access; as well as food banks, urban gardening and the like. Thanks to the generosity of the fans, since its creation WaterWheel’s Touring Division has donated over $1,000,000 to more than 425 groups.",
+        "charityWebsite": "http://phish.com/waterwheel/",
+        "availableQuantity": 1,
+        "geoLocation": "",
+        "url": "http://localhost:3000/deals/47ccf7763ef63b78774a4b24620126ed",
+        "user": {
+            "avatar": "https://www.gravatar.com/avatar/8ddd94d41df0ad44b9a93122027de0fe?s=60",
+            "name": "Ira Lichtenstein"
+        },
+        "media": [
+            "https://res.cloudinary.com/bakesale/image/upload/h_600,c_fill/IMG_0647_bictyq"
+        ]
+    },
+    "c4362e111dc2790852f39fbbac87019d": {
+        "key": "c4362e111dc2790852f39fbbac87019d",
+        "dealType": "Service",
+        "title": "1-Year Subscription for DeciZone PROFESSIONAL Account ($204 reg. price)",
+        "price": 18000,
+        "makerPercentage": 50,
+        "cause": {
+            "name": "Education"
+        },
+        "description": "DeciZone is a platform for streamlining decision making at scale.  \nwww.DeciZone.com\nbit.ly/solar-roof\n\nThe regular price for Professional account yearly subscription is $204 but for a good cause you can have it here for $180.  ",
+        "tags": "",
+        "charity": null,
+        "charityName": null,
+        "charityDescription": null,
+        "charityWebsite": null,
+        "availableQuantity": 10,
+        "geoLocation": "",
+        "url": "http://localhost:3000/deals/c4362e111dc2790852f39fbbac87019d",
+        "user": {
+            "avatar": "https://www.gravatar.com/avatar/17cde1fe0f658231e56d7e799c61ea9b?s=60",
+            "name": "Sehul Shah"
+        },
+        "media": [
+            "https://res.cloudinary.com/bakesale/image/upload/h_600,c_fill/iPhone-3phones-dz_g6qp6u",
+            "https://res.cloudinary.com/bakesale/image/upload/h_600,c_fill/3Screens-dz_kdy3jt",
+            "https://res.cloudinary.com/bakesale/image/upload/h_600,c_fill/DZ-LogoTagline-Horiz-SQUARE-Blue-608x606_zeesz0"
+        ]
+    },
+    "1df540043347f5df38a3240342ada1c2": {
+        "key": "1df540043347f5df38a3240342ada1c2",
+        "dealType": "Service",
+        "title": "Thai Yoga Therapy - 7-Day Program",
+        "price": 105000,
+        "makerPercentage": 50,
+        "cause": {
+            "name": "Environment"
+        },
+        "description": "Thai Yoga Therapy is an intelligent and graceful healing method that integrates assisted yoga stretching and acupressure. More commonly known as \"Thai massage,\" the practitioner essentially \"gives yoga\" TO the receiver, while they lay passively. Quite unlike and far superior to any other bodywork you've received, Thai Yoga Therapy gets the body moving in all directions to heal the internal system. \n\nWhile our culture has branded bodywork as a quick fix for acute back or neck pain, Thai Yoga Therapy effectively treats chronic pain and other health problems when received regularly. The 7-Day Therapeutic Program is seven Thai Yoga sessions, scheduled 1-2 times per week, each session focusing on a different physical attitude. \n\nSessions take place in the clients home or in my Park Slope or Gramercy studio locations.\n\n50% of these proceeds will go directly to hurricane relief for the Caribbean. ",
+        "tags": "c05ea8c861714c7271aa7f7b67b9a91c,64f9fb10cf68ed057893ec6f9bb415f8,19c8d94c39b491c2058c563e0b371f06,3d6b159e99e974d7c33d252122ebf249,e392e14046f7176f932f68c9de594d32,215786ffb3885e394be760cc404dcfa3,b65a092aa9bb163df3cf267bcc779f33",
+        "charity": null,
+        "charityName": null,
+        "charityDescription": null,
+        "charityWebsite": null,
+        "availableQuantity": 3,
+        "geoLocation": "Local, within 10 miles of 11231",
+        "url": "http://localhost:3000/deals/1df540043347f5df38a3240342ada1c2",
+        "user": {
+            "avatar": "https://www.gravatar.com/avatar/f97dc793b97540f6309ec644be9bbaa5?s=60",
+            "name": "Emily Sussell"
+        },
+        "media": [
+            "https://res.cloudinary.com/bakesale/image/upload/h_600,c_fill/static1.squarespace-1_sx13zn"
+        ]
+    },
+    "4c7af01b510bc712f585a12bf606f06d": {
+        "key": "4c7af01b510bc712f585a12bf606f06d",
+        "dealType": "Product",
+        "title": "Mandala of the Senses - Painting",
+        "price": 70000,
+        "makerPercentage": 50,
+        "cause": {
+            "name": "Global Warming\t"
+        },
+        "description": "Acrylic on Canvas, 30\" x 32\"\nOriginal painting by Jenny Harada, 2017\nThe cost of shipping within the Unites States is included in the price.\n50% of the proceeds of this sale will go to Unidos in support of Puerto Rico",
+        "tags": "bbe05629acd70e86c97bda2e4b11536b,1a132751471f0ac028a97fecdda619a7,7032cfaf3ededed2a52ae096e1731d18",
+        "charity": {
+            "name": "Unidos Relief Fund",
+            "description": "A Hurricane Relief Fund for Hurricane Maria Victims in Puerto Rico",
+            "website": "http://hispanicfederation.org/media/press_releases/a_hurricane_relief_fund_for_hurricane_maria_victims_in_puerto_rico/"
+        },
+        "charityName": null,
+        "charityDescription": null,
+        "charityWebsite": null,
+        "availableQuantity": 1,
+        "geoLocation": "",
+        "url": "http://localhost:3000/deals/4c7af01b510bc712f585a12bf606f06d",
+        "user": {
+            "avatar": "https://www.gravatar.com/avatar/ae7a1af488264ff2d7507bd7ee2ab159?s=60",
+            "name": "Jenny Harada"
+        },
+        "media": [
+            "https://res.cloudinary.com/bakesale/image/upload/h_600,c_fill/painting1_rl7qou",
+            "https://res.cloudinary.com/bakesale/image/upload/h_600,c_fill/painting2_g3u6kt",
+            "https://res.cloudinary.com/bakesale/image/upload/h_600,c_fill/painting3_uuqdga"
+        ]
+    },
+    "ac9bd5ec830197693b93cc1bb86a5480": {
+        "key": "ac9bd5ec830197693b93cc1bb86a5480",
+        "dealType": "Service",
+        "title": "Purpose Mapping",
+        "price": 37500,
+        "makerPercentage": 0,
+        "cause": {
+            "name": "Education"
+        },
+        "description": "Purpose Mapping is the #1 methodology for clarifying your purpose, activating your full potential and making a meaningful contribution in the world. \n\nAs Executive Director of the Purpose Genome Institute, Craig Filek uses Purpose Mapping to guide executives, entrepreneurs, investors & professionals around the world. \n\nBy the end of your 75-minute Skype session, you'll know who you are, why you're here and most importantly... what to do next. \n\n100% of the funds raised will go to Mankind Project, a global community of men initiating men into the sacred masculine. www.mankindproject.org",
+        "tags": "91e19755f57dca74d18a5eddb0658a38,170626536ebbe75669d1d15b3c93e4bf,bbf15126d17b2a7eead589c39e780011",
+        "charity": {
+            "name": "Mankind Project",
+            "description": "Support a global network of free peer-facilitated men's groups and supports men in leading lives of integrity, authenticity, and service.",
+            "website": "http://mankindproject.org/"
+        },
+        "charityName": null,
+        "charityDescription": null,
+        "charityWebsite": null,
+        "availableQuantity": 3,
+        "geoLocation": "",
+        "url": "http://localhost:3000/deals/ac9bd5ec830197693b93cc1bb86a5480",
+        "user": {
+            "avatar": "https://www.gravatar.com/avatar/25baf0be6de968b10745e957f603b0b4?s=60",
+            "name": "Craig Allan Filek"
+        },
+        "media": [
+            "https://res.cloudinary.com/bakesale/image/upload/h_600,c_fill/PurposeMappingLogo_xfaeos.png"
+        ]
+    },
+    "2092036b41a263b6750ba00b47b06ca7": {
+        "key": "2092036b41a263b6750ba00b47b06ca7",
+        "dealType": "Service",
+        "title": "1 hour Photoshoot session ",
+        "price": 10000,
+        "makerPercentage": 50,
+        "cause": {
+            "name": "Science"
+        },
+        "description": "We are photographers looking to build a portfolio and donate to a cause!!",
+        "tags": "6b106a62a8c48675f256d5147d83063b,2655430f33fe513e59d349e8d53b79bc,2228a1569478bc3e0db2edd0fe8d22b3,7f7ad0e2b306367fad6003d48d0fc65b,43a5ba9c30147daa77f94251717f3dc9,e130c02a8c31a41aa8e50ae9c4342f23",
+        "charity": null,
+        "charityName": "St Jude",
+        "charityDescription": "Saves childrens lives by finding cures to cancer",
+        "charityWebsite": "https://www.stjude.org/",
+        "availableQuantity": 5,
+        "geoLocation": "Miami FL",
+        "url": "http://localhost:3000/deals/2092036b41a263b6750ba00b47b06ca7",
+        "user": {
+            "avatar": "https://www.gravatar.com/avatar/a2329ef7dd00729fd2f936e8c0e2d3bb?s=60",
+            "name": "Karina Perez"
+        },
+        "media": [
+            "https://res.cloudinary.com/bakesale/image/upload/h_600,c_fill/JasminHurtado_084_01262018_lbswrx",
+            "https://res.cloudinary.com/bakesale/image/upload/h_600,c_fill/13_bwdlln",
+            "https://res.cloudinary.com/bakesale/image/upload/h_600,c_fill/DANNYIMG_002001262018_kpk6cf",
+            "https://res.cloudinary.com/bakesale/image/upload/h_600,c_fill/IMG_0068_kkzkcy"
+        ]
+    },
+    "72c5ab4dd5bd5531fe3cdaf65d1ae395": {
+        "key": "72c5ab4dd5bd5531fe3cdaf65d1ae395",
+        "dealType": "Service",
+        "title": "Basic Introduction to Javascript",
+        "price": 2000,
+        "makerPercentage": 0,
+        "cause": {
+            "name": "Children's Rights"
+        },
+        "description": "I will give you a solid basic introduction to the most popular Programming Language in the world.\n\nWhy Javascript?\n* Its Popular, so plenty of community support, you will be feel at home.\n* Its fun. Programmers in other language will like you\n* Easy to learn. You just need a web browser to start learning\n\nWhether you already know programming or just starting out as a complete noob, you will learn one or two things that will get your ready for your journey to be productive in javascript.\n\nWe will go through the core constructs of the language:\n1. Variables\n2. Data Types\n3. Operators and funtions\n\nWe will NOT learn Javascript  the Web in this introduction.\n\nWe will learn together in a 2 hour session via skype or a screen share tool.\n\n\n",
+        "tags": "94800166c97fa6d21b6b958c9e5a200f,e16a6c418ea74633bf6f008df9488690",
+        "charity": null,
+        "charityName": "IMGO Girls Orphanage",
+        "charityDescription": "This is an orphanage in the coasal city of Mombasa, Kenya for the care and education of orphaned girls who cannot find support within their own communities.",
+        "charityWebsite": "http://islandmuslimgirlsorphanage.org",
+        "availableQuantity": 5,
+        "geoLocation": "",
+        "url": "http://localhost:3000/deals/72c5ab4dd5bd5531fe3cdaf65d1ae395",
+        "user": {
+            "avatar": "https://www.gravatar.com/avatar/6f4dc890e5be276d4d37dea203d8d24c?s=60",
+            "name": "Negus Fatah"
+        },
+        "media": [
+            "https://res.cloudinary.com/bakesale/image/upload/h_600,c_fill/Selection_022_czmogy",
+            "https://res.cloudinary.com/bakesale/image/upload/h_600,c_fill/vsc1_uu3ayr"
+        ]
+    },
+    "f3433a7cd00956fa9f81922a14265eb6": {
+        "key": "f3433a7cd00956fa9f81922a14265eb6",
+        "dealType": "Product",
+        "title": "Synergy of the Rain Sprits - Mixed Media Fiber Art",
+        "price": 40000,
+        "makerPercentage": 50,
+        "cause": {
+            "name": "Global Warming\t"
+        },
+        "description": "Fabric, embroidery thread, beads, plastic, approximately 17\" x 17\" framed.\nOriginal artwork by Jenny Harada, 1999 - 2017\nThe cost of shipping within the Unites States is included in the price.\n50% of the proceeds of this sale will go to Unidos in support of Puerto Rico\n",
+        "tags": "bbe05629acd70e86c97bda2e4b11536b,615c00f36f26b392324bd90b93b57adf,1b192a90214dbbab026e3c64713aab76,f0b93733fe346a0d5d506ff28406125f",
+        "charity": {
+            "name": "Unidos Relief Fund",
+            "description": "A Hurricane Relief Fund for Hurricane Maria Victims in Puerto Rico",
+            "website": "http://hispanicfederation.org/media/press_releases/a_hurricane_relief_fund_for_hurricane_maria_victims_in_puerto_rico/"
+        },
+        "charityName": null,
+        "charityDescription": null,
+        "charityWebsite": null,
+        "availableQuantity": 1,
+        "geoLocation": "",
+        "url": "http://localhost:3000/deals/f3433a7cd00956fa9f81922a14265eb6",
+        "user": {
+            "avatar": "https://www.gravatar.com/avatar/ae7a1af488264ff2d7507bd7ee2ab159?s=60",
+            "name": "Jenny Harada"
+        },
+        "media": [
+            "https://res.cloudinary.com/bakesale/image/upload/h_600,c_fill/fiber1_i6a61b",
+            "https://res.cloudinary.com/bakesale/image/upload/h_600,c_fill/fiber3_a7viqg",
+            "https://res.cloudinary.com/bakesale/image/upload/h_600,c_fill/fiber2_lwyreb"
+        ]
+    },
+    "64f2e2859c9438b3b5e04ce28d6c0cb7": {
+        "key": "64f2e2859c9438b3b5e04ce28d6c0cb7",
+        "dealType": "Product",
+        "title": "Totem Godess of Divine Self Love - Plush Creature Art",
+        "price": 14000,
+        "makerPercentage": 50,
+        "cause": {
+            "name": "Global Warming\t"
+        },
+        "description": "Plush, fabric, beads, plastic eyes, 19\" x 13\"\nOriginal plush sculpture by Jenny Harada, 2015\nThe cost of shipping within the Unites States is included in the price.\n50% of the proceeds of this sale will go to Unidos in support of Puerto Rico",
+        "tags": "",
+        "charity": {
+            "name": "Unidos Relief Fund",
+            "description": "A Hurricane Relief Fund for Hurricane Maria Victims in Puerto Rico",
+            "website": "http://hispanicfederation.org/media/press_releases/a_hurricane_relief_fund_for_hurricane_maria_victims_in_puerto_rico/"
+        },
+        "charityName": null,
+        "charityDescription": null,
+        "charityWebsite": null,
+        "availableQuantity": 1,
+        "geoLocation": "",
+        "url": "http://localhost:3000/deals/64f2e2859c9438b3b5e04ce28d6c0cb7",
+        "user": {
+            "avatar": "https://www.gravatar.com/avatar/ae7a1af488264ff2d7507bd7ee2ab159?s=60",
+            "name": "Jenny Harada"
+        },
+        "media": [
+            "https://res.cloudinary.com/bakesale/image/upload/h_600,c_fill/plush1_z5vjbj",
+            "https://res.cloudinary.com/bakesale/image/upload/h_600,c_fill/plush2_z9tkjr",
+            "https://res.cloudinary.com/bakesale/image/upload/h_600,c_fill/plush3_qfq8bt"
+        ]
+    },
+    "bb6aaf78c00b4d7ad67b27ff85635ac1": {
+        "key": "bb6aaf78c00b4d7ad67b27ff85635ac1",
+        "dealType": "Service",
+        "title": "One Private Yin Yoga Lesson",
+        "price": 15000,
+        "makerPercentage": 50,
+        "cause": {
+            "name": "Environment"
+        },
+        "description": "Yin Yoga is a quiet, relaxing, and meditative style of yoga in which the practitioner sinks deeply into floor-based postures in order to target the connective tissue, heal the internal organs, and release emotions. \n\nIn this ninety minute private lesson, certified Yin yoga teacher Emily Sussell will guide you through a series of deep stretches and facilitate the process of tailoring the shapes to your body to maximize benefits.\n\nSessions are by appointment and take place in your home or at Emily's Gramercy or Park Slope studio locations.\n\nFifty percent of the proceeds will go to charities that support animal rights.",
+        "tags": "",
+        "charity": null,
+        "charityName": null,
+        "charityDescription": null,
+        "charityWebsite": null,
+        "availableQuantity": 3,
+        "geoLocation": "Local, within 10 miles of 11231",
+        "url": "http://localhost:3000/deals/bb6aaf78c00b4d7ad67b27ff85635ac1",
+        "user": {
+            "avatar": "https://www.gravatar.com/avatar/f97dc793b97540f6309ec644be9bbaa5?s=60",
+            "name": "Emily Sussell"
+        },
+        "media": [
+            "https://res.cloudinary.com/bakesale/image/upload/h_600,c_fill/static1.squarespace-2_rghb9c"
+        ]
+    },
+    "ce221787bc244e5eb5b7de96db323a4c": {
+        "key": "ce221787bc244e5eb5b7de96db323a4c",
+        "dealType": "Service",
+        "title": "Creative Brainstorming Session",
+        "price": 50000,
+        "makerPercentage": 0,
+        "cause": {
+            "name": "Science"
+        },
+        "description": "Anthony David Adams, BakeSale co-founder,patent-holding inventor, peak performance coach and professional brainstormer is offering YOU the same creative insights he has been hired to share with organizations like The United Nations, BMW and the Salvation Army. \n\nUnlocked deeper creativity and learn how to better harness your creative potential. Can be delivered onsite in NYC or remotely via Skype. 90 Minutes. ",
+        "tags": "",
+        "charity": {
+            "name": "Maps.org",
+            "description": "Working to legalize MDMA for the treatment of PTSD.",
+            "website": "http://www.maps.org/"
+        },
+        "charityName": "MAPS.org",
+        "charityDescription": "Working to legalize MDMA for the treatment of PTSD.",
+        "charityWebsite": "http://www.maps.org/",
+        "availableQuantity": 10,
+        "geoLocation": "",
+        "url": "http://localhost:3000/deals/ce221787bc244e5eb5b7de96db323a4c",
+        "user": {
+            "avatar": "https://www.gravatar.com/avatar/36acb949b8b8a9aa15a34b3387bb633f?s=60",
+            "name": "Anthony David"
+        },
+        "media": [
+            "https://res.cloudinary.com/bakesale/image/upload/h_600,c_fill/BrainStorm_nezbjt"
+        ]
+    },
+    "c51cebc50bb0c5bc712efb127b7bd61b": {
+        "key": "c51cebc50bb0c5bc712efb127b7bd61b",
+        "dealType": "Service",
+        "title": "Make your website's home page look good on small devices",
+        "price": 50000,
+        "makerPercentage": 0,
+        "cause": {
+            "name": "Science"
+        },
+        "description": "Do you have a website that’s not usable on mobile screens? I can fix that for you using responsive design.\n\nI’ll redo the website’s home page to perform better on all devices. This includes responsiveness in both look and delivery.\n\nI have over 20 years experience designing and building sites for the web.",
+        "tags": "eb5d4d56756450cf7ea1df6847cd31e9,dc066def902c4865f1e4bb1f9e2e1a40",
+        "charity": {
+            "name": "Top Charity",
+            "description": null,
+            "website": null
+        },
+        "charityName": null,
+        "charityDescription": null,
+        "charityWebsite": null,
+        "availableQuantity": 5,
+        "geoLocation": null,
+        "url": "http://localhost:3000/deals/c51cebc50bb0c5bc712efb127b7bd61b",
+        "user": {
+            "avatar": "https://www.gravatar.com/avatar/b426de714b57bef780af268fcada0ad8?s=60",
+            "name": "Samer Buna"
+        },
+        "media": [
+            "https://res.cloudinary.com/bakesale/image/upload/h_600,c_fill/Screen_Shot_2017-09-20_at_10.26.55_AM_wxfxmg",
+            "https://res.cloudinary.com/bakesale/image/upload/h_600,c_fill/Screen_Shot_2017-09-25_at_8.57.28_AM_pqe8p7",
+            "https://res.cloudinary.com/bakesale/image/upload/h_600,c_fill/Screen_Shot_2017-09-25_at_8.57.38_AM_lkse6f"
+        ]
+    }
+}
