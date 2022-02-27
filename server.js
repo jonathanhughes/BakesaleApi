@@ -9,8 +9,9 @@ const port = 3000;
 
 const searchDeals = (searchTerm) => {
     return deals.filter((deal) => {
-        for (prop in deal) {
-            if (deal[prop].includes(searchTerm)) {
+        let dealDetail = dealDetails[deal.key]
+        for (let prop in dealDetail) {
+            if (typeof deal[prop] === 'string' && deal[prop].toLowerCase().includes(searchTerm.toLowerCase())) {
                 return true;
             }
         }
@@ -37,7 +38,6 @@ app.get(['/api/deals', '/deals'], (req, res) => {
 });
 
 app.get(['/api/deals/:id', '/deals/:id'], (req, res) => {
-    console.log(req.params.id);
     const dealDetail = dealDetails[req.params.id];
     res.send(JSON.stringify(dealDetail));
 });
