@@ -6,7 +6,8 @@
   "main": "server.js",
   "scripts": {
     "load": "node load.js",
-    "start": "nodemon server.js"
+    "start": "node server.js",
+    "watch": "nodemon server.js"
   },
   "dependencies": {
     "body-parser": "^1.19.2",
