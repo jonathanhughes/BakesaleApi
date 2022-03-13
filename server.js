@@ -5,7 +5,7 @@ import { createRequire } from "module";
 const require = createRequire(import.meta.url);
 const deals = require('./deals.json');
 const dealDetails = require('./deal-details.json');
-const port = 3000;
+const port = process.env.PORT || 3000;
 
 const searchDeals = (searchTerm) => {
     return deals.filter((deal) => {
